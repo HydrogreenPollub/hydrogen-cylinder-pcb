@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HCPL2531SDM
+D High Speed Optocouplers 8-Pin SMT 1Mbit/s Output Optocoupler
+K
+F https://www.onsemi.com/pdf/datasheet/hcpl2530m-d.pdf
+$ENDCMP
+#
+#End Doc Library
