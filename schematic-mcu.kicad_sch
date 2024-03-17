@@ -2962,10 +2962,6 @@
 		(uuid "0426d8ef-b514-41d9-965c-051216f732db")
 	)
 	(no_connect
-		(at 256.54 105.41)
-		(uuid "08bfa3fd-30c9-4e03-bd66-16e85e31a53c")
-	)
-	(no_connect
 		(at 215.9 69.85)
 		(uuid "09077b2b-aa31-41bf-b26b-bf97ba0a28d5")
 	)
@@ -3002,10 +2998,6 @@
 		(uuid "4f28c482-eca0-4caa-bc53-1966267e50c8")
 	)
 	(no_connect
-		(at 256.54 100.33)
-		(uuid "59e48fdb-bf56-40ed-bf43-dfb9e9862ff9")
-	)
-	(no_connect
 		(at 190.5 87.63)
 		(uuid "7584f7e6-1cd6-4767-98c1-6d7e369e4a83")
 	)
@@ -3026,24 +3018,12 @@
 		(uuid "7ef85aa0-76c8-4fd6-899c-2c0dc0fc92aa")
 	)
 	(no_connect
-		(at 256.54 102.87)
-		(uuid "885012c3-b701-4138-882d-0e9c89e97aef")
-	)
-	(no_connect
 		(at 256.54 74.93)
 		(uuid "8a5fab87-0ac8-4694-87dc-7770c7826f58")
 	)
 	(no_connect
-		(at 256.54 107.95)
-		(uuid "8f58a140-a239-4323-839a-d99eab89b193")
-	)
-	(no_connect
 		(at 190.5 118.11)
 		(uuid "922cd520-eb81-405d-9171-26c2908bb61b")
-	)
-	(no_connect
-		(at 256.54 113.03)
-		(uuid "9d3d1f81-d029-4ff0-acb1-a4d89dda1072")
 	)
 	(no_connect
 		(at 256.54 138.43)
@@ -3064,14 +3044,6 @@
 	(no_connect
 		(at 256.54 135.89)
 		(uuid "ea0f6a1d-4680-4077-9611-b1c50e8fc13e")
-	)
-	(no_connect
-		(at 256.54 110.49)
-		(uuid "ed226c34-13fe-4b6f-8611-d252f3532a6c")
-	)
-	(no_connect
-		(at 256.54 97.79)
-		(uuid "f2f2c5c9-3fc4-4bb7-bd2c-c752fe1a729c")
 	)
 	(wire
 		(pts
@@ -4355,6 +4327,18 @@
 		)
 		(uuid "e16ceb73-526c-41a3-9391-d707833dda09")
 	)
+	(hierarchical_label "ENABLE_MOTOR"
+		(shape output)
+		(at 256.54 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "081567a4-0c74-495f-a2f7-9b3bf9d06448")
+	)
 	(hierarchical_label "LED_MCU_STATUS"
 		(shape output)
 		(at 190.5 133.35 180)
@@ -4403,6 +4387,18 @@
 		)
 		(uuid "2ce9a8fb-a300-4100-87e9-f25a3658659e")
 	)
+	(hierarchical_label "SLEEP_MOTOR"
+		(shape output)
+		(at 256.54 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2fc05a57-85bd-4352-9a68-af85014f9397")
+	)
 	(hierarchical_label "CAN_RX"
 		(shape input)
 		(at 186.69 105.41 180)
@@ -4414,6 +4410,30 @@
 			(justify right)
 		)
 		(uuid "39121143-d16a-45e5-a1ef-397ca7f5f988")
+	)
+	(hierarchical_label "FAULT_MOTOR"
+		(shape input)
+		(at 256.54 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3c1f175a-86f4-459e-a778-c4248276dedb")
+	)
+	(hierarchical_label "DECAY_MODE_MOTOR"
+		(shape output)
+		(at 256.54 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "56ab8f07-afa3-46e9-b0ff-2a0905672d37")
 	)
 	(hierarchical_label "GND"
 		(shape passive)
@@ -4547,6 +4567,18 @@
 		)
 		(uuid "e3d28a52-bddb-4bf7-9e45-8072b33ce1cd")
 	)
+	(hierarchical_label "DIRECTION_MOTOR"
+		(shape output)
+		(at 256.54 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ea6e0fe7-77ed-4317-9333-b5d9fba47900")
+	)
 	(hierarchical_label "PRESSURE_SENSOR_V_MCU"
 		(shape input)
 		(at 256.54 128.27 0)
@@ -4559,6 +4591,18 @@
 		)
 		(uuid "f0244f6b-537b-4351-95ca-87142f492bd8")
 	)
+	(hierarchical_label "ADC_MOTOR"
+		(shape output)
+		(at 256.54 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f4bdf297-1884-4a1d-824f-a67fb32f2066")
+	)
 	(hierarchical_label "USB_D+"
 		(shape bidirectional)
 		(at 31.115 86.36 180)
@@ -4570,6 +4614,18 @@
 			(justify right)
 		)
 		(uuid "fdcb8524-f88f-4d03-9e60-a009281d8a66")
+	)
+	(hierarchical_label "DRIVER_SIDE"
+		(shape output)
+		(at 256.54 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ffa61529-ed94-4b84-b2d1-7ca1da89a2d9")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -5864,7 +5920,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 119.888 36.83 90)
 			(effects
 				(font

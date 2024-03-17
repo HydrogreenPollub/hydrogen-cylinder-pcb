@@ -1626,13 +1626,23 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 81.28) (xy 181.61 104.14)
+			(xy 226.06 123.19) (xy 241.3 123.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0a3556e1-add4-4b87-a88e-12e98db591f4")
+		(uuid "08bcc2e8-4701-442c-a06d-498952bd40b5")
+	)
+	(wire
+		(pts
+			(xy 172.72 81.28) (xy 172.72 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ab8aa82-f155-4384-b55f-761cce565dac")
 	)
 	(wire
 		(pts
@@ -1716,6 +1726,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 130.81) (xy 241.3 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b4668c4-d555-456d-af27-62944b18a038")
+	)
+	(wire
+		(pts
 			(xy 187.96 36.83) (xy 200.66 36.83)
 		)
 		(stroke
@@ -1743,6 +1763,16 @@
 			(type default)
 		)
 		(uuid "273e0831-47b3-4bd2-a14e-ed89e7eaa3eb")
+	)
+	(wire
+		(pts
+			(xy 224.79 127) (xy 241.3 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "274d1303-b6cd-418c-bc81-842ab3ea242f")
 	)
 	(wire
 		(pts
@@ -1776,13 +1806,23 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 81.28) (xy 179.07 104.14)
+			(xy 153.67 81.28) (xy 153.67 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2be3159f-9d25-4cad-b650-f6a298b4c6eb")
+	)
+	(wire
+		(pts
+			(xy 236.22 134.62) (xy 241.3 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "349bfa5c-0f74-40c9-a361-5e75eb09bf52")
 	)
 	(wire
 		(pts
@@ -1806,7 +1846,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 46.99) (xy 208.28 46.99)
+			(xy 187.96 48.26) (xy 208.28 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1833,6 +1873,26 @@
 			(type default)
 		)
 		(uuid "48b5fa07-07cd-4d1d-9c3e-17aaee7d172e")
+	)
+	(wire
+		(pts
+			(xy 168.91 81.28) (xy 168.91 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b225fdb-39a7-4a51-8601-dfda4317fba5")
+	)
+	(wire
+		(pts
+			(xy 184.15 81.28) (xy 184.15 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f6b60f8-6d4b-4002-aaca-acd0080d2816")
 	)
 	(wire
 		(pts
@@ -1873,6 +1933,16 @@
 			(type default)
 		)
 		(uuid "57fc15f1-fdff-47fa-a4bf-b417ddea044f")
+	)
+	(wire
+		(pts
+			(xy 176.53 81.28) (xy 176.53 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "633a7059-7411-43a5-a2dd-49a91fd09635")
 	)
 	(wire
 		(pts
@@ -1996,6 +2066,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 107.95) (xy 241.3 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e10e31d-e7ba-431b-bf42-c93b3d3425e5")
+	)
+	(wire
+		(pts
 			(xy 130.81 144.526) (xy 136.525 144.526)
 		)
 		(stroke
@@ -2053,6 +2133,16 @@
 			(type default)
 		)
 		(uuid "9a8872ab-5023-4bc9-b7ab-79c7620a7baf")
+	)
+	(wire
+		(pts
+			(xy 222.25 119.38) (xy 241.3 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0e8b155-dd15-44f5-afd5-f48b2e4f7bd8")
 	)
 	(wire
 		(pts
@@ -2116,6 +2206,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 81.28) (xy 156.21 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b39b003f-7cd9-4c80-90a7-cebe2ff7955f")
+	)
+	(wire
+		(pts
 			(xy 76.2 33.02) (xy 76.2 107.95)
 		)
 		(stroke
@@ -2143,6 +2243,26 @@
 			(type default)
 		)
 		(uuid "c0cbb355-65ae-4121-a179-a9fed1451c73")
+	)
+	(wire
+		(pts
+			(xy 180.34 81.28) (xy 180.34 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8af800d-7b5b-4976-9018-df432d42209a")
+	)
+	(wire
+		(pts
+			(xy 236.22 137.16) (xy 241.3 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca0ef228-610f-4fdb-a5d5-0b3b8a64f121")
 	)
 	(wire
 		(pts
@@ -2176,6 +2296,16 @@
 	)
 	(wire
 		(pts
+			(xy 236.22 140.97) (xy 236.22 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d158ba82-b4f9-4f83-8928-03313a34ccb6")
+	)
+	(wire
+		(pts
 			(xy 187.96 147.32) (xy 208.28 147.32)
 		)
 		(stroke
@@ -2183,6 +2313,16 @@
 			(type default)
 		)
 		(uuid "d5600cd6-b694-449b-bd27-d6d90e65f0cd")
+	)
+	(wire
+		(pts
+			(xy 161.29 81.28) (xy 161.29 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9ae286f-2410-457a-ace7-2ec1e960fa1d")
 	)
 	(wire
 		(pts
@@ -2256,6 +2396,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 81.28) (xy 165.1 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1406493-e543-4e18-8b05-b2ba930b2856")
+	)
+	(wire
+		(pts
 			(xy 111.76 54.61) (xy 115.57 54.61)
 		)
 		(stroke
@@ -2296,6 +2446,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 111.76) (xy 241.3 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb41f4c8-04ff-433d-9829-fbbe03873ca8")
+	)
+	(wire
+		(pts
 			(xy 187.96 136.652) (xy 200.787 136.652)
 		)
 		(stroke
@@ -2303,6 +2463,16 @@
 			(type default)
 		)
 		(uuid "fc4ae09a-2f6f-40e9-862a-5d5beca413ac")
+	)
+	(wire
+		(pts
+			(xy 220.98 115.57) (xy 241.3 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fde9d716-2e91-4adf-85b1-c8eb6a5b335a")
 	)
 	(rectangle
 		(start 30.48 126.746)
@@ -2340,6 +2510,17 @@
 		)
 		(uuid "00537978-afc9-4008-b5c1-078ff9eb41cc")
 	)
+	(label "SLEEP_MOTOR"
+		(at 168.91 96.52 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "03e2329f-3594-4e7d-85a8-feedb453d204")
+	)
 	(label "VALVE_MCU"
 		(at 177.8 21.59 180)
 		(fields_autoplaced yes)
@@ -2350,6 +2531,61 @@
 			(justify right bottom)
 		)
 		(uuid "0937911b-274f-4255-943f-688b0733f7a7")
+	)
+	(label "DIRECTION_MOTOR"
+		(at 172.72 100.33 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "095bfb33-30c3-41b5-b361-a98682ee3c13")
+	)
+	(label "ADC_MOTOR"
+		(at 184.15 93.98 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0d7e0db8-7e4e-40cb-b5a1-d0baa9af0d0a")
+	)
+	(label "DRIVER_SIDE"
+		(at 161.29 95.25 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "128d7c02-bb8b-4f8f-b37b-a4c91dc118a6")
+	)
+	(label "ENABLE_MOTOR"
+		(at 224.79 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1aab71ba-67c9-44a2-8e52-8d5c4e697e50")
+	)
+	(label "DRIVER_SIDE"
+		(at 227.33 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "29267682-ab7a-4d9c-b8a1-a6c58df5024a")
 	)
 	(label "PURGE_VALVE_MCU"
 		(at 177.8 24.13 180)
@@ -2372,6 +2608,28 @@
 			(justify right bottom)
 		)
 		(uuid "2c908698-5b4d-43f3-9fba-095d1021eb4f")
+	)
+	(label "SLEEP_MOTOR"
+		(at 226.06 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "36d68282-6ea2-4976-85a9-452057fd87f1")
+	)
+	(label "ENABLE_MOTOR"
+		(at 165.1 97.79 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "489637e2-3e38-43a7-87fc-d0d8064c3192")
 	)
 	(label "PRESSURE_SENSOR_I_MCU"
 		(at 214.757 127 180)
@@ -2428,6 +2686,28 @@
 		)
 		(uuid "58035682-ced9-4293-87ef-bd25c80bea57")
 	)
+	(label "FAULT_MOTOR"
+		(at 180.34 95.25 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5a0a7b70-3dc4-42b6-a540-eadf604d135b")
+	)
+	(label "DECAY_MODE_MOTOR"
+		(at 220.98 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "64b14fde-64f0-4161-a796-eb2079863fca")
+	)
 	(label "I{slash}O_3_MCU"
 		(at 163.83 175.26 90)
 		(fields_autoplaced yes)
@@ -2449,6 +2729,17 @@
 			(justify right bottom)
 		)
 		(uuid "6e82f463-3499-4046-b80a-aa8a3c605a73")
+	)
+	(label "FAULT_MOTOR"
+		(at 227.33 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6f8429f8-a18d-4dc4-a13f-068dbb8f72c7")
 	)
 	(label "PRESSURE_SENSOR_V_MCU"
 		(at 214.63 130.81 180)
@@ -2473,7 +2764,7 @@
 		(uuid "759167bd-141b-420a-be6f-4c1f626f3f23")
 	)
 	(label "HYDROGEN_SENSOR_"
-		(at 208.28 46.99 180)
+		(at 208.28 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2482,6 +2773,17 @@
 			(justify right bottom)
 		)
 		(uuid "874264da-761f-436a-99b8-6195de171979")
+	)
+	(label "DIRECTION_MOTOR"
+		(at 222.25 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "954ffcf1-6f76-4218-8a00-5bb8b3634289")
 	)
 	(label "I{slash}O_4_MCU"
 		(at 200.66 40.005 180)
@@ -2493,6 +2795,28 @@
 			(justify right bottom)
 		)
 		(uuid "9b17bf76-554c-45d2-b90a-eaa2347a6f80")
+	)
+	(label "ADC_MOTOR"
+		(at 228.6 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a4d7c465-15fa-4acf-9035-304746882aa9")
+	)
+	(label "DECAY_MODE_MOTOR"
+		(at 176.53 101.6 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ad560435-162a-4751-9952-d19e6647ad3d")
 	)
 	(label "I{slash}O_4_MCU"
 		(at 160.02 175.26 90)
@@ -3200,6 +3524,79 @@
 			(project "schematic-main"
 				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 231.14 137.16 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6c25ce09-23bc-4a5d-8fa4-63ac1f6018ed")
+		(property "Reference" "J6"
+			(at 225.552 146.558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MOTOR_DRIVER"
+			(at 228.092 146.558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41792-0003_1x03_P3.96mm_Horizontal"
+			(at 231.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 231.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d2680a43-7d81-47ed-a9e5-777e1ef8cd3e")
+		)
+		(pin "2"
+			(uuid "d47b05c7-04b8-4ecd-8afc-7d7ee782ab43")
+		)
+		(pin "3"
+			(uuid "e4313049-56b9-4658-9b60-8f31bc5a4e46")
+		)
+		(instances
+			(project "schematic-main"
+				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -4337,6 +4734,202 @@
 			)
 		)
 	)
+	(symbol
+		(lib_id "power:GND")
+		(at 236.22 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2962f5d-c8e6-4207-8078-a09397412adf")
+		(property "Reference" "#PWR079"
+			(at 236.22 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 236.22 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 236.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 236.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "74051710-e258-4d7b-a5c5-546c07692974")
+		)
+		(instances
+			(project "schematic-main"
+				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
+					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 103.378)
+		(size 38.354 44.196)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 154 1.0000)
+		)
+		(uuid "25d3b6e6-81fb-4ff5-9e54-8894a530755f")
+		(property "Sheetname" "IO_2"
+			(at 241.3 102.6664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 241.3 148.1586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "FAULT_MOTOR" output
+			(at 241.3 111.76 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "13bbcc11-fe5b-4902-b9ac-39df09ee21a7")
+		)
+		(pin "ADC_MOTOR" input
+			(at 241.3 107.95 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7854badd-91c4-405d-9c4c-5ec779abf365")
+		)
+		(pin "+MOTOR" output
+			(at 241.3 137.16 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "62d0ea38-bd50-42d0-a65a-c0588dc42a77")
+		)
+		(pin "-MOTOR" output
+			(at 241.3 134.62 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f6f3fb8d-fe57-4d4b-a695-e61d26ca82f1")
+		)
+		(pin "DECAY_MODE_MOTOR" input
+			(at 241.3 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "21ba556e-b2cb-47ec-aab0-bbaafed685da")
+		)
+		(pin "ENABLE_MOTOR" input
+			(at 241.3 127 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b9255093-bb63-40df-af22-2ce76c5f0185")
+		)
+		(pin "SLEEP_MOTOR" input
+			(at 241.3 123.19 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2c0470e6-6839-4943-97dc-b446f0fc0d4b")
+		)
+		(pin "DRIVER_SIDE" input
+			(at 241.3 130.81 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "20fc6797-762f-4fe9-8967-33c563c86438")
+		)
+		(pin "DIRECTION_MOTOR" input
+			(at 241.3 119.38 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "834c9b7d-048b-410c-88f2-d1d59d02ecf7")
+		)
+		(instances
+			(project "schematic-main"
+				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
+					(page "5")
+				)
+			)
+		)
+	)
 	(sheet
 		(at 136.525 104.14)
 		(size 51.435 59.69)
@@ -4430,7 +5023,7 @@
 			(uuid "6d286401-e7fa-4bf6-89ea-1c44deb65434")
 		)
 		(pin "LED_MCU_STATUS" input
-			(at 179.07 104.14 90)
+			(at 153.67 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4440,7 +5033,7 @@
 			(uuid "22d08462-b5be-44db-9fa8-7fce8c4c6e6e")
 		)
 		(pin "LED_CAN_STATUS" input
-			(at 181.61 104.14 90)
+			(at 156.21 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4778,7 +5371,7 @@
 			(uuid "f5688fc2-4d13-42e8-b0ce-6c5cb21e5da6")
 		)
 		(pin "LED_CAN_STATUS" output
-			(at 181.61 81.28 270)
+			(at 156.21 81.28 270)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4788,7 +5381,7 @@
 			(uuid "a16ff0f0-acd7-4901-96d7-06dbaec7760a")
 		)
 		(pin "LED_MCU_STATUS" output
-			(at 179.07 81.28 270)
+			(at 153.67 81.28 270)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4908,7 +5501,7 @@
 			(uuid "4c14327d-4126-4f5f-8fbd-5727b28132be")
 		)
 		(pin "HYDROGEN_SENSOR_" input
-			(at 187.96 46.99 0)
+			(at 187.96 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4916,6 +5509,76 @@
 				(justify right)
 			)
 			(uuid "de6d3db6-7b08-4159-bdde-81103df61883")
+		)
+		(pin "DRIVER_SIDE" output
+			(at 161.29 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e4987bab-c294-4d9d-bac6-a89c9f470944")
+		)
+		(pin "ENABLE_MOTOR" output
+			(at 165.1 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fc47ec2d-be54-4969-8ebf-37dec86c3bf3")
+		)
+		(pin "SLEEP_MOTOR" output
+			(at 168.91 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a7e0703f-23e4-4042-95e0-3e7b7ff1d7fe")
+		)
+		(pin "DIRECTION_MOTOR" output
+			(at 172.72 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "97cbe5ca-2efb-45d7-a95f-ca753ee0d332")
+		)
+		(pin "DECAY_MODE_MOTOR" output
+			(at 176.53 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9dd1a5aa-3417-4347-9511-ce9fe75046a8")
+		)
+		(pin "FAULT_MOTOR" input
+			(at 180.34 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3876035c-9d6d-412c-b884-8c516aa41927")
+		)
+		(pin "ADC_MOTOR" output
+			(at 184.15 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8cf5e928-62c6-47ba-8f23-50ba020dbaeb")
 		)
 		(instances
 			(project "schematic-main"
