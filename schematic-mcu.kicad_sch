@@ -4509,7 +4509,7 @@
 	)
 	(hierarchical_label "PRESSURE_SENSOR_I_MCU"
 		(shape input)
-		(at 256.54 130.81 0)
+		(at 256.54 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4581,7 +4581,7 @@
 	)
 	(hierarchical_label "PRESSURE_SENSOR_V_MCU"
 		(shape input)
-		(at 256.54 128.27 0)
+		(at 256.54 130.81 0)
 		(fields_autoplaced yes)
 		(effects
 			(font

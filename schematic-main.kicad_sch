@@ -2296,16 +2296,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 140.97) (xy 236.22 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d158ba82-b4f9-4f83-8928-03313a34ccb6")
-	)
-	(wire
-		(pts
 			(xy 187.96 147.32) (xy 208.28 147.32)
 		)
 		(stroke
@@ -3530,79 +3520,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 231.14 137.16 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6c25ce09-23bc-4a5d-8fa4-63ac1f6018ed")
-		(property "Reference" "J6"
-			(at 225.552 146.558 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MOTOR_DRIVER"
-			(at 228.092 146.558 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41792-0003_1x03_P3.96mm_Horizontal"
-			(at 231.14 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 231.14 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d2680a43-7d81-47ed-a9e5-777e1ef8cd3e")
-		)
-		(pin "2"
-			(uuid "d47b05c7-04b8-4ecd-8afc-7d7ee782ab43")
-		)
-		(pin "3"
-			(uuid "e4313049-56b9-4658-9b60-8f31bc5a4e46")
-		)
-		(instances
-			(project "schematic-main"
-				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 125.73 144.526 180)
 		(unit 1)
@@ -4735,17 +4652,32 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 236.22 140.97 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 231.14 137.16 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f2962f5d-c8e6-4207-8078-a09397412adf")
-		(property "Reference" "#PWR079"
-			(at 236.22 147.32 0)
+		(uuid "e965b871-9509-419b-b17a-23637e915288")
+		(property "Reference" "J10"
+			(at 225.298 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Motor"
+			(at 227.838 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical"
+			(at 231.14 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4753,26 +4685,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 236.22 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 140.97 0)
+		(property "Datasheet" "~"
+			(at 231.14 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4781,7 +4695,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 236.22 140.97 0)
+			(at 231.14 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4790,12 +4704,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "74051710-e258-4d7b-a5c5-546c07692974")
+			(uuid "da83ea20-f8a9-49b2-94ec-8f511d0a0b1f")
+		)
+		(pin "2"
+			(uuid "864c7ebf-335b-4063-92a8-73a9c458eb86")
 		)
 		(instances
 			(project "schematic-main"
 				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
-					(reference "#PWR079")
+					(reference "J10")
 					(unit 1)
 				)
 			)
