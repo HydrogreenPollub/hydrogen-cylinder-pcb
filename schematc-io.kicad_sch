@@ -3724,28 +3724,12 @@
 		(uuid "59f121f6-8d9e-41ff-92b5-314c982879c3")
 	)
 	(no_connect
-		(at 210.82 34.29)
-		(uuid "9bcc3085-8fff-4715-a263-06a95c9c1545")
-	)
-	(no_connect
 		(at 57.15 105.41)
 		(uuid "aefddbbe-e18b-414d-97fd-f2d601a5c253")
 	)
 	(no_connect
 		(at 57.15 110.49)
 		(uuid "c6e1d248-8121-401e-9c4c-d4b3aed0e506")
-	)
-	(no_connect
-		(at 205.74 77.47)
-		(uuid "db36e937-e571-4c09-af62-d7d6930a9f82")
-	)
-	(no_connect
-		(at 210.82 31.75)
-		(uuid "db3e6376-1278-42c1-a6f8-9fa2e3ee8427")
-	)
-	(no_connect
-		(at 205.74 80.01)
-		(uuid "df2efd34-ba3e-40d9-a3ba-6ae0f1f3dea9")
 	)
 	(wire
 		(pts
@@ -3866,6 +3850,16 @@
 			(type default)
 		)
 		(uuid "175a11fd-c705-4162-b074-efbe0fb39011")
+	)
+	(wire
+		(pts
+			(xy 102.87 156.21) (xy 102.87 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a03fa3c-a3b5-49e1-9462-f0c0979e5b7f")
 	)
 	(wire
 		(pts
@@ -4069,16 +4063,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 165.1) (xy 102.87 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4307ac95-b6da-4880-bb97-4b645bce33e4")
-	)
-	(wire
-		(pts
 			(xy 105.41 53.34) (xy 128.27 53.34)
 		)
 		(stroke
@@ -4116,6 +4100,16 @@
 			(type default)
 		)
 		(uuid "49afaf04-dfee-436e-b856-48f9dee4c022")
+	)
+	(wire
+		(pts
+			(xy 100.33 154.94) (xy 102.87 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e53bf1b-c2ac-4e81-bc22-8213957553d5")
 	)
 	(wire
 		(pts
@@ -4476,6 +4470,16 @@
 			(type default)
 		)
 		(uuid "99e3076c-a51e-4575-a8c5-9c7db55c5cad")
+	)
+	(wire
+		(pts
+			(xy 100.33 156.21) (xy 102.87 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aa551ac-ff34-4e39-a345-6353c893695a")
 	)
 	(wire
 		(pts
@@ -5338,7 +5342,7 @@
 	)
 	(hierarchical_label "HYDROGEN_SENSOR_ADC"
 		(shape output)
-		(at 102.87 157.48 180)
+		(at 102.87 162.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5350,7 +5354,7 @@
 	)
 	(hierarchical_label "HYDROGEN_SENSOR_"
 		(shape output)
-		(at 102.87 154.94 180)
+		(at 102.87 160.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8302,7 +8306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41792-0004_1x04_P3.96mm_Horizontal"
+		(property "Footprint" "Lib:39-30-104Y"
 			(at 107.95 157.48 0)
 			(effects
 				(font
@@ -10052,7 +10056,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 102.87 165.1 0)
+		(at 100.33 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10061,7 +10065,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf926e0f-4ef9-485c-8746-dddc02eb35be")
 		(property "Reference" "#PWR040"
-			(at 102.87 171.45 0)
+			(at 100.33 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10070,7 +10074,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 102.87 170.18 0)
+			(at 100.33 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10079,7 +10083,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 165.1 0)
+			(at 100.33 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10088,7 +10092,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 165.1 0)
+			(at 100.33 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10097,7 +10101,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 165.1 0)
+			(at 100.33 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10493,16 +10497,15 @@
 	(symbol
 		(lib_name "+5V_1")
 		(lib_id "power:+5V")
-		(at 102.87 160.02 90)
+		(at 100.33 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c9ac917b-3422-4a9a-a486-d4ad55016833")
 		(property "Reference" "#PWR071"
-			(at 106.68 160.02 0)
+			(at 100.33 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10511,16 +10514,15 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 99.06 160.0199 90)
+			(at 97.282 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 160.02 0)
+			(at 100.33 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10529,7 +10531,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 160.02 0)
+			(at 100.33 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10538,7 +10540,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 102.87 160.02 0)
+			(at 100.33 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
