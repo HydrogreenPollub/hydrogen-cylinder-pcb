@@ -506,10 +506,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "schematic-main.net",
-      "plot": "",
+      "plot": "C:/Users/m/OneDrive - Politechnika Lubelska/Pulpit/Hydros/2024 hardware/HCU v1/hydrogen-cylinder-pcb/Production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "schematic-main_HCU.step",
       "svg": "",
       "vrml": ""
     },
